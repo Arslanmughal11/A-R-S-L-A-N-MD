@@ -1,0 +1,22 @@
+{
+  "name": "arslan-md",
+  "version": "0.0.1",
+  "description": "Arslan-MD whatsapp bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "qrcode-terminal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsalan010officiall/A-R-S-L-A-N-MD.git"
+  },
+  "keywords": [
+    "https://github.com/Arsalan010officiall/A-R-S-L-A-N-MD"
+  ],
+  "author": "arslammd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arsalan010officiall/A-R-S-L-A-N-MD/issues"
+  },
+  "homepage": "https://github.com/Arsalan010officiall/A-R-S-L-A-N-MD#readme"
+}
