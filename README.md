@@ -6,7 +6,7 @@
   
 <p align="center">  
   <a href="https://mybeluga.vercel.app/">
-    <img alt="X-2.0" height="300" src="(https://i.ibb.co/qYqxrt8/20231010-232658.png)">
+    <img alt="X-2.0" height="300" src="[https://i.ibb.co/qYqxrt8/20231010-232658.png]">
     <h1 align="center">A-R-S-L-A-N-MD</h1>
   </a>
 </p>
